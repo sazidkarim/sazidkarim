@@ -1,4 +1,4 @@
-![Computer Engineer](https://media-exp1.licdn.com/dms/image/C5603AQG-8XpaqzieRw/profile-displayphoto-shrink_800_800/0/1655543380097?e=1668643200&v=beta&t=MY6mj4wm0WYJajRSAaBBjcP4iAeKUC6fIA9PZgMNqPI)
+![Computer Engineer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/307019923_3356966727883408_1413320797190381799_n.jpg?stp=dst-jpg_p526x296&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHR3aPKSKo1bqIHZv2ENIkglNMSnm5RZCCU0xKeblFkIJal53FyFBkq8MzUWcmrwPMIKUSdmpizW7EV3lTQcyUh&_nc_ohc=ox8NfG1kG6QAX-l0k-9&_nc_ht=scontent.fdac135-1.fna&oh=00_AT-qxuSr5ru2VXhsyT41xWDzG3_7GMis3IAVtI9jrNWMJw&oe=632890D7)
 
 ### Hi there 👋, I'm Sazid Karim
 #### Computer Engineer
