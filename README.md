@@ -1,6 +1,8 @@
+![Computer Engineer](https://media-exp1.licdn.com/dms/image/C5603AQG-8XpaqzieRw/profile-displayphoto-shrink_800_800/0/1655543380097?e=1668643200&v=beta&t=MY6mj4wm0WYJajRSAaBBjcP4iAeKUC6fIA9PZgMNqPI)
+
 ### Hi there 👋, I'm Sazid Karim
 #### Computer Engineer
-![Computer Engineer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/293997330_3312878842292197_6496313978327397579_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHa5Kr7kfQNomtqdE4MIjFhRb41kqrGKFpFvjWSqsYoWubyZD88etpr8fKkNGfqC8g09Ebfj48dL0I7XuBLFZPA&_nc_ohc=oJD-sMSnKNoAX9kYix0&_nc_ht=scontent.fdac135-1.fna&oh=00_AT_8QK5R-WBA1YUkaM9i0lqfbUOxOJUHMUWoEf6AZ61cZw&oe=632800B7)
+
 
 I am a challenging working pupil of Computer Science & Engineering Department. I am very
  patient and interested to implement my own ideas. In my field I desire to develop and
